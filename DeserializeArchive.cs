@@ -5,7 +5,7 @@ using System.Text;
 namespace ddprotobuffer
 {
     /// <summary>
-    /// 数据解包
+    /// 数据解包xxx
     /// </summary>
     class DeserializeArchive : IArchive
     {
